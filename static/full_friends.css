@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body{
+    margin: 10px auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+}
